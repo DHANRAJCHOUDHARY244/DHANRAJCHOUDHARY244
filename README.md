@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm DHANRAJ CHOUDHARY</h1>
 <h3 align="center">EXPLORING DEVOPS WORLD 🗺</h3>
+<img align="right" alt="coding" width="400" src="https://tenor.com/bPuhb.gif">
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanrajchoudhary244&label=Profile%20views&color=0e75b6&style=flat" alt="dhanrajchoudhary244" /> </p>
 
