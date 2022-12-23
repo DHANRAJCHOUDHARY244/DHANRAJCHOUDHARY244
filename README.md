@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DHANRAJ CHOUDHARY</h1>
 <h3 align="center">EXPLORING DEVOPS WORLD 🗺</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2F9f1647e6262cadc4dff2f34ce202072a&psig=AOvVaw1zbetU0b3xPYT6gUWwA_ua&ust=1671854830671000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNilrtrujvwCFQAAAAAdAAAAABAK">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanrajchoudhary244&label=Profile%20views&color=0e75b6&style=flat" alt="dhanrajchoudhary244" /> </p>
 
