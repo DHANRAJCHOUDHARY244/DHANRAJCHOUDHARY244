@@ -1,4 +1,4 @@
-![logo](https://github.com/DHANRAJCHOUDHARY244/DHANRAJCHOUDHARY244/blob/main/Blue%20%26%20Green%20Minimal%20Landscape%20Desktop%20Wallaper.png)
+![logo](https://github.com/DHANRAJCHOUDHARY244/DHANRAJCHOUDHARY244/blob/main/blue-%26-green-minimal-landscape-desktop-wallaper-(2)_optimized%20(1)%20(1).png)
 <h1 align="center">Hi 👋, I'm DHANRAJ CHOUDHARY</h1>
 <h3 align="center">EXPLORING DEVOPS WORLD 🗺</h3>
 <img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
