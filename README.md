@@ -15,6 +15,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=dhanrajchoudhary244&theme=juicyfresh&no-bg=true" />
  </p>
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanrajchoudhary244&theme=github-dark-dimmed&custom_title=dhanrajchoudhary244%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 - 🌱 I’m currently learning **react native**
 
 - 👨‍💻 Portfolio 🔗 To see my current project [Freelance Service Page](https://portfoli2.vercel.app/)
@@ -78,4 +80,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanrajchoudhary244&show_icons=true&locale=en&layout=compact" alt="dhanrajchoudhary244" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanrajchoudhary244&show_icons=true&locale=en" alt="dhanrajchoudhary244" /></p>
-# DHANRAJCHOUDHARY244
+
