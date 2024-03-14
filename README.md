@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=dhanrajchoudhary244&label=Profile%20views&color=0e75b6&style=flat" alt="dhanrajchoudhary244" /> 
 <img src="https://badges.strrl.dev/years/dhanrajchoudhary244" alt="dhanrajchoudhary244" /> 
 <img src="https://badges.strrl.dev/repos/dhanrajchoudhary244" alt="dhanrajchoudhary244" /> 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/dhanrajchoudhary244?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<img alt="followers" src="https://img.shields.io/github/followers/dhanrajchoudhary244?label=Followers&style=social">
 </p>
 
 <p align="center"> 
