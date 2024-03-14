@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=WEB%20DEVELOPER&textBg=false)
 <img align="center" alt="logo" src="https://github.com/DHANRAJCHOUDHARY244/DHANRAJCHOUDHARY244/blob/main/a.png">
 <h1 align="center">Hi 👋, I'm DHANRAJ CHOUDHARY</h1>
 <h3 align="center">EXPLORING DEVOPS WORLD 🗺</h3>
