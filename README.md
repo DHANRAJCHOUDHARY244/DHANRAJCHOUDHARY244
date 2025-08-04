@@ -24,9 +24,7 @@
 
 - 💬 Ask me about **react,NodeJS**
 
-- 📫 How to reach me **2020btcse009@curaj.ac.in**
-
-- 📄 Know about my experiences [https://dhanrajchoudhary244.github.io/dashboardPortfolio/files/dhanraj%20choudhary.pdf](https://dhanrajchoudhary244.github.io/dashboardPortfolio/files/dhanraj%20choudhary.pdf)
+- 📫 How to reach me **choudharydhanraj239@gmail.com**
 
 - ⚡ Fun fact **I think I am very funny 😸**
 
