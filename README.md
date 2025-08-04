@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **react native**
 
-- 👨‍💻 Portfolio 🔗 To see my current project [Freelance Service Page](https://portfoli2.vercel.app/)
+- 👨‍💻 Portfolio 🔗 To see my current project [Freelance Service Page](https://dev-dhanraj.vercel.app/)
 
 - 💬 Ask me about **react,NodeJS**
 
